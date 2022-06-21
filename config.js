@@ -68,7 +68,7 @@ global.author = `X
 
 
 
-ig: senpai_chan_gemoy`
+IG @hai_om.qw`
 global.wm = 'Xdit-MD'
 global.watermark = wm
 global.botdate = `╭──────────═┅═─────────\n│◪ ${time}\n┊◪ ${week} ${date}\n╰──────────═┅═─────────`
